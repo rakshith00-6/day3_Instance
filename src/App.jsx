@@ -6,7 +6,7 @@ function App() {
     <div className="app">
       {/* Header */}
       <header className="header">
-        <h1>Learning DevOps with GitHub Actions version 2</h1>
+        <h1>Learning DevOps - CI/CD Automated Deployment</h1>
         <p>Learn • Build • Deploy</p>
       </header>
 
